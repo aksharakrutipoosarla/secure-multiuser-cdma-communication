@@ -1,10 +1,10 @@
-# 📡 Secure Multi-User CDMA Communication System
+# Secure Multi-User CDMA Communication System
 
 A Python-based implementation of a secure multi-user CDMA communication system using UDP sockets, spread spectrum encoding, and correlation-based decoding.
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project demonstrates the implementation of a **Code Division Multiple Access (CDMA)** communication system in Python. Multiple users can simultaneously transmit data over a shared communication channel using unique Pseudo Noise (PN) codes.
 
@@ -12,7 +12,7 @@ The encoded signals are transmitted using **UDP socket programming**, while the 
 
 ---
 
-## ✨ Features
+## Features
 
 - Multi-user CDMA communication
 - Spread spectrum encoding
@@ -25,7 +25,7 @@ The encoded signals are transmitted using **UDP socket programming**, while the 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - UDP Sockets
@@ -36,7 +36,7 @@ The encoded signals are transmitted using **UDP socket programming**, while the 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 secure-multiuser-cdma-communication
@@ -63,7 +63,7 @@ secure-multiuser-cdma-communication
 
 ---
 
-## ⚙️ System Workflow
+## System Workflow
 
 ### Transmitter
 
@@ -75,7 +75,7 @@ secure-multiuser-cdma-communication
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 1. User data is entered.
 2. Each user's data is encoded using a unique PN code.
@@ -87,7 +87,7 @@ secure-multiuser-cdma-communication
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 ### Start the transmitter
 
@@ -103,14 +103,14 @@ python src/receiver.py
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - **P. Akshara Kruti**
 - **Pranav Turala**
 
 ---
 
-## 🙋 My Contribution
+## My Contribution
 
 I was responsible for the **receiver (decoding)** side of the project, including:
 
@@ -122,7 +122,7 @@ I was responsible for the **receiver (decoding)** side of the project, including
 
 ---
 
-## 📚 Future Improvements
+## Future Improvements
 
 - GUI for easier interaction
 - Support for additional users
@@ -131,6 +131,6 @@ I was responsible for the **receiver (decoding)** side of the project, including
 
 ---
 
-## 📄 License
+## License
 
 This project was developed for academic purposes as part of the **Digital Communication (20CYS301)** course.
